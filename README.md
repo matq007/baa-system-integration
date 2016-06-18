@@ -8,8 +8,8 @@ A lot of code is gathered from internet sites focused in this topics.
 
 First you need to install JAVA 7. After installing JAVA make sure it is in PATH.
 I am using ActiveMQ messaging system and CAMEL for routing.
-
+```
   brew install activemq
   brew install camel
-
+```
 
